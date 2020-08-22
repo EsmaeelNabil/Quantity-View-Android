@@ -1,0 +1,3 @@
+include ':addMinusLibrary'
+include ':app'
+rootProject.name = "addminus"

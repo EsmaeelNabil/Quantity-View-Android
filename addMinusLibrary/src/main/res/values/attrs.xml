@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QuantityView">
+
+        <attr name="numberColor" format="color" />
+        <attr name="numberTextSize" format="dimension" />
+        <attr name="addDrawable" format="reference" />
+        <attr name="minusDrawable" format="reference" />
+        <attr name="minQuantity" format="integer" />
+        <attr name="maxQuantity" format="integer" />
+        <attr name="currentQuantity" format="integer" />
+
+
+    </declare-styleable>
+</resources>
